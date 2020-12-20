@@ -7,7 +7,7 @@
     <passwd>123</passwd>
     <passwd1>root</passwd1>
     <username>user2020</username>
-    <username1>uostest</username1>
+    <username1>0</username1>
     <test_name>test111</test_name>
     <groupname>test_group</groupname>
     <groupname1>test_group1</groupname1>
@@ -34,17 +34,17 @@
     <effect>pixmix</effect>
     <!-- system Network -->
     <netPath>/org/freedesktop/NetworkManager/Devices/2</netPath>
-    <normalIp>10.20.22.1</normalIp>
+    <normalIp>0.0.0.0</normalIp>
     <errorIp>1234</errorIp>
-    <invalidIp>10.22.1.2</invalidIp>
+    <invalidIp>0.0.0.0</invalidIp>
     <!-- userExperience -->
     <path>/usr/share/applications/deepin-calculator.desktop</path>
     <name>深度计算器</name>
     <app_id>deepin-calculator</app_id>
     <!-- lastore.smartMirror -->
-    <origin>http://pools.uniontech.com/uos/pool/main/n/netselect/netselect_0.3.ds2-1+deepin_amd64.deb</origin>
-    <official>http://packages.chinauos.cn/uos/ </official>
-    <mirror>http://cdn.packages.deepin.com/deepin/</mirror>
+    <origin>0</origin>
+    <official>0</official>
+    <mirror>0</mirror>
     <!-- lastore.manager -->
     <jobid>update_source</jobid>
     <errType1>dpkgInterrupted</errType1>

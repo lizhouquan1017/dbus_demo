@@ -14,11 +14,11 @@ def sendEmail():
     '''
     发送email
     '''
-    username = 'xiaohaiyan@uniontech.com'
-    m = 'eGh5QDIwMjAwNw=='
+    username = ''
+    m = ''
     password = base64.b64decode(m).decode('utf-8')
-    sender = 'xiaohaiyan@uniontech.com'
-    receiver = 'xiaohaiyan@uniontech.com'
+    sender = ''
+    receiver = ''
     html_file = getLoginfo.getLastestHtml()
     log_file = getLoginfo.getLastestLog()
     content = getLoginfo.get_content()
