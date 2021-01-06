@@ -1,0 +1,5 @@
+#接口gesture方法被删除
+/script/dbus/systemBus/gesture/003_setDblclickDuration.py
+
+#接口com.deepin.daemon.helper.Backlight.DDCCI被删除
+/script/dbus/systemBus/helperBacklight/001_refreshDisplays.py

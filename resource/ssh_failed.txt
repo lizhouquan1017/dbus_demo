@@ -1,0 +1,7 @@
+#使用ssh远程执行脚本不会成功
+/script/dbus/systemBus/grub/001_getAvailableGfxmodes.py
+/script/dbus/sessionBus/dock/005_activateWindow.py
+/script/dbus/sessionBus/dock/006_maximizeWindow.py
+/script/dbus/sessionBus/dock/007_minimizeWindow.py
+/script/dbus/sessionBus/dock/008_makeWindowAbove.py
+/script/dbus/sessionBus/dock/009_closeWindow.py
